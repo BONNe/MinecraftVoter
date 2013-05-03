@@ -1,0 +1,27 @@
+** v3.0 **
+- Izlabots kredītu bugs
+
+** v3.2 **
+- Izņemta mulsinošā install direktorija, kas nebija strādājoša
+- Izlabota problēma ar failu nosaukumiem
+- Izlabots bugs ar wos.lv banneriem par kļūdu 0x3
+- Pievienota iespēja pievienot random priekšmetus kā balvas par balsojumiem
+
+** v3.3 **
+- Vairs nevar saņemt kredītus un bonusus ja patiešām netiek nobalsots par projektu. darbojas uz 8d.lv un wos.lv topsaitiem.
+
+** v3.4 **
+-  Labojums priekš dažiem, kam negāja jaunais 3.3, bija problēmas ar failu EOL;
+-  Labojums muļķīgajai kļūdai, ka balvas dod arī par tiem topsaitiem, par kuriem nevajadzētu dot. 
+
+** v3.5 **
+- pielikts glīts uzraksts par to, ka jāatrodas spēlē, lai saņemtu bonusu
+- nobalsotie linki paliek gaišāki, lai vieglāk atšķirt, arī vairs nevar atvērt nobalsotos
+- pievienots balsotāju tops, viegli pārvietojams atsevišķā lapā, jeb iekļaujās pašā voter lapā
+- voter skripts vairs nav izmantojams projektos, kas neizmanto suncore sms pakalpojumus
+
+** v3.6 **
+- izlaboti php notices par "already voted" pārbaudi
+- ja nenorāda niku, netiek saglabāts topā un nemēģina piešķirt balvu
+- pievienotas spēlētāju sejas no minotar
+- pret spameriem - tagad var izvēlēties niku no saraksta, nevis ievadīt pats. 

@@ -1,0 +1,14 @@
+body{
+	background: url(../img/bg-02.png);
+}
+#install{
+	width:720px;
+	margin:50px auto 50px auto;
+	border: 1px solid #CCC;
+}
+#install .inputs{
+	text-align:center;
+}
+#install h3, #install h4{
+	text-align:center;
+}
